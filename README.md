@@ -3,7 +3,7 @@ Markdown
 
 A full-stack MERN Project & Ticket Management System featuring a highly interactive Kanban board, threaded comments, and secure user authentication. Built to streamline team workflows and task tracking.
 
-![TicketFlow Demo](https://via.placeholder.com/1000x500.png?text=Replace+with+a+screenshot+of+your+Kanban+Board)
+
 
 ## ✨ Features
 
